@@ -1,0 +1,8 @@
+i 474          my 130         you 129
+me 90          one 89         ¡ª 77
+he 76          his 63         did 61
+could 59       even 56        we 55
+who 50         any 47         your 47
+
+# of most frequent words: 15
+Source file: joy.txt

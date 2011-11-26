@@ -1,0 +1,8 @@
+her 30         she 29         i 18
+one 11         horse 10       ring 7
+we 7           time 7         out 6
+his 6          around 6       circus 6
+woman 5        two 5          girl 5
+
+# of most frequent words: 15
+Source file: ring.txt

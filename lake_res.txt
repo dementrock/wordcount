@@ -1,0 +1,8 @@
+i 35           we 20          you 16
+my 15          lake 14        up 14
+been 13        one 12         out 11
+they 10        his 10         over 9
+their 9        same 9         he 9
+
+# of most frequent words: 15
+Source file: lake.txt

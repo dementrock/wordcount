@@ -1,0 +1,11 @@
+we 29          freedom 19     our 17
+i 15           let 13         negro 13
+one 12         every 10       day 10
+come 10        go 9           dream 9
+ring 9         their 8        able 8
+back 8         you 8          nation 7
+satisfied 6    white 6        cannot 6
+long 6         new 5          great 5
+my 5           
+# of most frequent words: 25
+Source file: dream.txt

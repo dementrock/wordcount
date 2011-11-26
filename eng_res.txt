@@ -1,0 +1,8 @@
+one 45         words 39       i 35
+-- 33          you 32         can 25
+he 23          if 22          they 20
+language 20    like 19        political 17
+meaning 17     used 16        more 16
+
+# of most frequent words: 15
+Source file: eng.txt
