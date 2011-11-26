@@ -1,6 +1,11 @@
 import sys
 
-IGNORE = ['a', 'the', 'are', 'were', 'is', 'am', 'as', 'to', 'than', 'yes', 'no', 'and', 'was', 'that', 'of', 'be', 'will', 'in', 'from', 'with', 'for', 'all', 'by', 'not', 'have', 'must', 'this', 'there', 'it', 'which', 'at', 'an', 'would', 'had', 'about', 'when', 'but', 'how', 'what', 'on', 'or', 'its', 'into', 'through']
+IGNORE = ['a', 'the', 'are', 'were', 'is', 'am', 'as', 'to', 'than',\
+        'yes', 'no', 'and', 'was', 'that', 'of', 'be', 'will', 'in',\
+        'from', 'with', 'for', 'all', 'by', 'not', 'have', 'must',\
+        'this', 'there', 'it', 'which', 'at', 'an', 'would', 'had',\
+        'about', 'when', 'but', 'how', 'what', 'on', 'or', 'its',\
+        'into', 'through']
 
 def get_dict(filename):
     f = open(filename, 'rU')
