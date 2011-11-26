@@ -1,0 +1,5 @@
+usage: python wordcount.py NUMBER_OF_MOST_FREQUENT_WORDS INPUT_FILENAME OUTPUT_FILENAME
+
+E.G.: python wordcount.py 15 eng.txt eng_res.txt
+
+http://me.geotakucovi.com/wordcount.html
