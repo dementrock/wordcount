@@ -1,3 +1,7 @@
+#! /usr/bin/env python
+
+#Use command "chmod +x wordcount.py" so that you can run "./wordcount.py -h" or blablabla
+
 import sys
 
 IGNORE = ['a', 'the', 'are', 'were', 'is', 'am', 'as', 'to', 'than',
